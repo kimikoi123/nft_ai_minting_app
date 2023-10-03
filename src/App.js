@@ -128,7 +128,7 @@ function App() {
           <input type="submit" value="Create & Mint" />
         </form>
         <div className="image">
-          <img src={image} alt="AI generated Image" />
+          <img src={image} alt="AI generated" />
         </div>
 
         <p>View<a href={url} target="_blank" rel="noreferrer">Metadata</a></p>
