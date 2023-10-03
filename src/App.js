@@ -5,7 +5,6 @@ import { ethers } from "ethers"
 import axios from "axios"
 
 // Components
-import Spinner from "react-bootstrap/Spinner"
 import Navigation from "./components/Navigation"
 
 // ABIs
